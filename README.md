@@ -1,2 +1,2 @@
 # Simple-UI
-Styling with Tailwind
+Styling with TailwindCSS
